@@ -1,4 +1,4 @@
-# 🎹 KeyEcho (JavaScript)
+# 🎹 KeyEcho (Keyboard Key Press Detector)
 
 A simple and interactive JavaScript project that detects **which key is pressed on the keyboard** and displays it instantly on the screen.  
 This project is built to understand and practice **Events and Event Handling in JavaScript**.
